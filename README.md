@@ -1,4 +1,4 @@
-# Data_Collection_Challenge
+# Data Collection Challenge
 
 ## Instructions
 
